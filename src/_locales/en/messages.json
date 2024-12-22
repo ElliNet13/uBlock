@@ -1,4 +1,11 @@
 {
+  "devtoolsName": {
+    "message": "Devtools",
+    "description": "appears as tab name in dashboard"
+  },
+
+
+
   "extName": {
     "message": "uBlock Origin",
     "description": "extension name."
@@ -12,15 +19,15 @@
     "description": "English: uBlock₀ — Dashboard"
   },
   "dashboardUnsavedWarning": {
-    "message": "Warning! You have unsaved changes",
+    "message": "Warning! dont discard your changes pls dont",
     "description": "A warning in the dashboard when navigating away from unsaved changes"
   },
   "dashboardUnsavedWarningStay": {
-    "message": "Stay here",
+    "message": "Fine",
     "description": "Label for button to prevent navigating away from unsaved changes"
   },
   "dashboardUnsavedWarningIgnore": {
-    "message": "Ignore",
+    "message": "I don't care",
     "description": "Label for button to ignore unsaved changes"
   },
   "settingsPageName": {
